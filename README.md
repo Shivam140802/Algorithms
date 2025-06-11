@@ -19,6 +19,6 @@ This repository contains implementations of classic synchronization problems in 
 
 ```bash
 # Example for a C program
-gcc dino_philo.c - -o dino_philo
+gcc dino_philo.c -o dino_philo
 
 ./dino_philo
