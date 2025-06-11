@@ -22,3 +22,5 @@ This repository contains implementations of classic synchronization problems in 
 gcc dino_philo.c -o dino_philo
 
 ./dino_philo
+
+"Don't forget to follow me"
