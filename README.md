@@ -7,6 +7,8 @@ This repository contains implementations of classic synchronization problems in 
 1. **Dining Philosophers Problem**
 2. **Producer-Consumer Problem**
 3. **Readers-Writers Problem**
+4. **Semaphores**
+5. **Mutex-lock-unlock(sum of array)**
 
 ## Technologies Used
 
